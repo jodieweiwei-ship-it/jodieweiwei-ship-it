@@ -13,7 +13,7 @@ Passionate about quality assurance and test automation with 4+ years of experien
 - **Domain**: Banking, Fintech
 
 ### 📂 Featured Projects
-- 🏦 [Selenium Banking Automation](https://github.com/jodieweiwei-ship-it/selenium-banking-demo) - Web UI automation with Page Object Model
+- 🏦 [Selenium Banking Automation](https://github.com/jodieweiwei-ship-it/selenium-banking-demo-with-Cucumber) - Banking Application BDD Test Automation Framework 
 - 🔌 [REST API Automation](https://github.com/jodieweiwei-ship-it/restassured-api-automation) - Comprehensive API testing with RestAssured
 
 ### 📫 Let's Connect
